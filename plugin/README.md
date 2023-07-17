@@ -1,1 +1,2 @@
-The 
+# JailBreak-LLMs-Plugins-Test
+In this section, we provide an exploration of the effects on calling plugins after jailbreaking Language Models (LLMs). This study focuses on the consequences that arise when LLMs bypass their restrictions, particularly in relation to plugin functionality. By breaking out of controlled environments, LLMs may gain unauthorized access and permissions, potentially altering the behavior and outcomes of plugins. It is important to consider the implications of these actions, as they may introduce ethical and legal concerns, impact privacy and intellectual property rights, and disrupt established norms surrounding the usage and integration of plugins with LLMs.
